@@ -1,0 +1,9 @@
+Components Needed:
+
+Arduino board (e.g., Arduino Uno or Arduino Nano)
+Blood pressure sensor (e.g., BMP180 or similar)
+Glucose sensor (e.g., based on the analog sensor for glucose level)
+Heart rate sensor (e.g., Pulse Sensor or similar)
+Wi-Fi module (ESP8266 or similar)
+LCD display (for local display)
+Breadboard and jumper wires

@@ -1,0 +1,5 @@
+Components Needed:
+
+Arduino board (e.g., Arduino Uno)
+MQ-135 gas sensor
+Breadboard and jumper wires
